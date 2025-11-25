@@ -1,4 +1,4 @@
-AI Physical Trainer
+AI Physical Trainer-
 A real-time, webcam-based fitness tracking system that detects human body movement using OpenCV and automatically counts repetitions for exercises such as Squats, Jumping Jacks, and Sit-Ups.
 The system includes a GUI interface, audio feedback, session logging, and an auto-opening dashboard for visual analytics.
 
