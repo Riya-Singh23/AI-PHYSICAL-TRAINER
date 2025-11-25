@@ -99,8 +99,10 @@ Test 4: Dashboard
 6. Screenshots
 GUI homescreen
 <img width="1158" height="602" alt="image" src="https://github.com/user-attachments/assets/b173e9a8-5049-47bd-a509-1c068a2fb565" />
+
 Camera window+Rep counting
 <img width="597" height="458" alt="image" src="https://github.com/user-attachments/assets/1035a8bc-6222-47de-8c90-f407db9ac6e2" />
+
 dashboard
 <img width="1161" height="627" alt="image" src="https://github.com/user-attachments/assets/4f70cb44-7330-4a3b-993b-492c509b9c76" />
 
